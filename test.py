@@ -9,62 +9,6 @@ from sklearn import preprocessing
 from tensorflow.keras import layers
 import bert
 
-df = pd.read_csv('train_story_data.csv')
-
-TAG_RE = re.compile(r'<[^>]+>')
-
-# pre process sentences from dataset and make as list
-text = []
-
-
-def remove_tags(text):
-    return TAG_RE.sub('', text)
-
-
-def preprocess_text(sen):
-    # Removing html tags
-    sentence = remove_tags(sen)
-    # Remove punctuations and numbers
-    sentence = re.sub('[^a-zA-Z]', ' ', sentence)
-    # Single character removal
-    sentence = re.sub(r"\s+[a-zA-Z]\s+", ' ', sentence)
-    # Removing multiple spaces
-    sentence = re.sub(r'\s+', ' ', sentence)
-
-    return sentence
-
-
-sentences = list(df['sentence'])
-for sen in sentences:
-    text.append(preprocess_text(sen))
-
-
-# pre process annotation of emotion
-def extraction(emotion):
-    emotion = emotion[0]
-    return emotion
-
-
-df['Emotion'] = df.loc[:, 'ann1_emotion'].str.split(':')
-df['Emotion'] = df['Emotion'].apply(extraction)
-
-df.loc[:, 'Emotion'] = df.loc[:, 'Emotion'].replace('Su-', 'Su')
-df.loc[:, 'Emotion'] = df.loc[:, 'Emotion'].replace('Su+', 'Su')
-df.loc[:, 'Emotion'] = df.loc[:, 'Emotion'].replace('D', 'A')
-
-print(df.head())
-
-label_encoder = preprocessing.LabelEncoder()
-
-df['Emotion'] = label_encoder.fit_transform(df['Emotion'])
-le_name_mapping = dict(zip(label_encoder.classes_, label_encoder.transform(label_encoder.classes_)))
-le_mapping = {'Emotion': le_name_mapping}
-
-print(df['Emotion'].values)
-print(le_mapping)
-
-y = df['Emotion'].values
-
 # Tokenize
 BertTokenizer = bert.bert_tokenization.FullTokenizer
 bert_layer = hub.KerasLayer("https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/1",
@@ -72,31 +16,6 @@ bert_layer = hub.KerasLayer("https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H
 vocabulary_file = bert_layer.resolved_object.vocab_file.asset_path.numpy()
 to_lower_case = bert_layer.resolved_object.do_lower_case.numpy()
 tokenizer = BertTokenizer(vocabulary_file, to_lower_case)
-
-
-def tokenize_reviews(text_reviews):
-    return tokenizer.convert_tokens_to_ids(tokenizer.tokenize(text_reviews))
-
-
-tokenized_text = [tokenize_reviews(review) for review in text]
-
-text_with_len = [[review, y[i], len(review)]
-                 for i, review in enumerate(tokenized_text)]
-
-random.shuffle(text_with_len)
-text_with_len.sort(key=lambda x: x[2])
-sorted_reviews_labels = [(review_lab[0], review_lab[1]) for review_lab in text_with_len]
-
-processed_dataset = tf.data.Dataset.from_generator(lambda: sorted_reviews_labels, output_types=(tf.int32, tf.int32))
-
-BATCH_SIZE = 32
-batched_dataset = processed_dataset.padded_batch(BATCH_SIZE, padded_shapes=((None,), ()))
-
-TOTAL_BATCHES = math.ceil(len(sorted_reviews_labels) / BATCH_SIZE)
-TEST_BATCHES = TOTAL_BATCHES // 10
-batched_dataset.shuffle(TOTAL_BATCHES)
-test_data = batched_dataset.take(TEST_BATCHES)
-train_data = batched_dataset.skip(TEST_BATCHES)
 
 
 class TEXT_MODEL(tf.keras.Model):
@@ -180,42 +99,4 @@ else:
                   optimizer="adam",
                   metrics=["sparse_categorical_accuracy"])
 
-# Train and save model
-checkpoint_path = "ckpt_bert_tok"
-ckpt = tf.train.Checkpoint(Dcnn=model)
-ckpt_manager = tf.train.CheckpointManager(ckpt, checkpoint_path, max_to_keep=1)
 
-if ckpt_manager.latest_checkpoint:
-    ckpt.restore(ckpt_manager.latest_checkpoint)
-    print("Latest checkpoint restored!!")
-
-
-class MyCustomCallback(tf.keras.callbacks.Callback):
-
-    def on_epoch_end(self, epoch, logs=None):
-        ckpt_manager.save()
-        print("Checkpoint saved at {}.".format(checkpoint_path))
-
-
-model.fit(train_data,
-          epochs=NB_EPOCHS,
-          callbacks=[MyCustomCallback()])
-
-
-# Prediction
-def encode_sentence(sent):
-    return tokenizer.convert_tokens_to_ids(tokenizer.tokenize(sent))
-
-
-def get_prediction(sentence):
-    tokens = encode_sentence(sentence)
-    inputs = tf.expand_dims(tokens, 0)
-
-    output = model(inputs, training=False)
-
-    print(output)
-    print([np.argmax(output)])
-
-
-get_prediction(
-    "We will not open the door,\" cried they, \"you are not our mother.")
