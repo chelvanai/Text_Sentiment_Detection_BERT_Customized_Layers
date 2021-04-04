@@ -1,0 +1,471 @@
+file_name,id,sentence,ann1_emotion,ann2_emotion
+wicked_p.emmood,0:0,"THERE lived once upon a time a wicked prince whose heart and mind were set upon conquering all the countries of the world, and on frightening the people; he devastated their countries with fire and sword, and his soldiers trod down the crops in the fields and destroyed the peasants' huts by fire, so that the flames licked the green leaves off the branches, and the fruit hung dried up on the singed black trees.",Su-:N,-:F
+wicked_p.emmood,1:1,"Many a poor mother fled, her naked baby in her arms, behind the still smoking walls of her cottage; but also there the soldiers followed her, and when they found her, she served as new nourishment to their diabolical enjoyments; demons could not possibly have done worse things than these soldiers!",Su-:F,-:F
+wicked_p.emmood,2:2,"The prince was of opinion that all this was right, and that it was only the natural course which things ought to take.",N:H,-:F
+wicked_p.emmood,3:3,"His power increased day by day, his name was feared by all, and fortune favoured his deeds.",N:F,-:F
+wicked_p.emmood,4:4,"He brought enormous wealth home from the conquered towns, and gradually accumulated in his residence riches which could nowhere be equalled.",N:N,N:F
+wicked_p.emmood,5:5,"He erected magnificent palaces, churches, and halls, and all who saw these splendid buildings and great treasures exclaimed admiringly: ""What a mighty prince!""",Su+:H,+:H
+wicked_p.emmood,6:6,"But they did not know what endless misery he had brought upon other countries, nor did they hear the sighs and lamentations which rose up from the debris of the destroyed cities.",N:Sa,N:S
+wicked_p.emmood,7:7,"The prince often looked with delight upon his gold and his magnificent edifices, and thought, like the crowd: ""What a mighty prince!",H:H,+:H
+wicked_p.emmood,8:8,But I must have more- much more.,N:N,N:N
+wicked_p.emmood,9:9,"No power on earth must equal mine, far less exceed it.""",H:N,N:N
+wicked_p.emmood,10:10,"He made war with all his neighbours, and defeated them.",N:N,N:N
+wicked_p.emmood,11:11,The conquered kings were chained up with golden fetters to his chariot when he drove through the streets of his city.,Su-:N,-:N
+wicked_p.emmood,12:12,"These kings had to kneel at his and his courtiers' feet when they sat at table, and live on the morsels which they left.",Sa:N,S:N
+wicked_p.emmood,13:13,"At last the prince had his own statue erected on the public places and fixed on the royal palaces; nay, he even wished it to be placed in the churches, on the altars, but in this the priests opposed him, saying: ""Prince, you are mighty indeed, but God's power is much greater than yours; we dare not obey your orders.""",D:A,D:A
+wicked_p.emmood,14:14,"""Well,"" said the prince.",N:N,N:N
+wicked_p.emmood,15:15,"""Then I will conquer God too.""",D:N,D:N
+wicked_p.emmood,16:16,"And in his haughtiness and foolish presumption he ordered a magnificent ship to be constructed, with which he could sail through the air; it was gorgeously fitted out and of many colours; like the tail of a peacock, it was covered with thousands of eyes, but each eye was the barrel of a gun.",N:N,N:N
+wicked_p.emmood,17:17,"The prince sat in the centre of the ship, and had only to touch a spring in order to make thousands of bullets fly out in all directions, while the guns were at once loaded again.",N:N,N:N
+wicked_p.emmood,18:18,"Hundreds of eagles were attached to this ship, and it rose with the swiftness of an arrow up towards the sun.",N:N,N:N
+wicked_p.emmood,19:19,"The earth was soon left far below, and looked, with its mountains and woods, like a cornfield where the plough had made furrows which separated green meadows; soon it looked only like a map with indistinct lines upon it; and at last it entirely disappeared in mist and clouds.",N:N,N:N
+wicked_p.emmood,20:20,Higher and higher rose the eagles up into the air; then God sent one of his numberless angels against the ship.,N:N,N:N
+wicked_p.emmood,21:21,"The wicked prince showered thousands of bullets upon him, but they rebounded from his shining wings and fell down like ordinary hailstones.",N:N,A:N
+wicked_p.emmood,22:22,"One drop of blood, one single drop, came out of the white feathers of the angel's wings and fell upon the ship in which the prince sat, burnt into it, and weighed upon it like thousands of hundredweights, dragging it rapidly down to the earth again; the strong wings of the eagles gave way, the wind roared round the prince's head, and the clouds around- were they formed by the smoke rising up from the burnt cities?- took strange shapes, like crabs many, many miles long, which stretched their claws out after him, and rose up like enormous rocks, from which rolling masses dashed down, and became fire-spitting dragons.",N:N,-:N
+wicked_p.emmood,23:23,"The prince was lying half-dead in his ship, when it sank at last with a terrible shock into the branches of a large tree in the wood.",N:N,-:N
+wicked_p.emmood,24:24,"""I will conquer God!"" said the prince.",A:N,A:N
+wicked_p.emmood,25:25,"""I have sworn it: my will must be done!""",A:N,A:N
+wicked_p.emmood,26:26,"And he spent seven years in the construction of wonderful ships to sail through the air, and had darts cast from the hardest steel to break the walls of heaven with.",N:N,N:N
+wicked_p.emmood,27:27,"He gathered warriors from all countries, so many that when they were placed side by side they covered the space of several miles.",N:N,N:N
+wicked_p.emmood,28:28,"They entered the ships and the prince was approaching his own, when God sent a swarm of gnats- one swarm of little gnats.",N:N,N:N
+wicked_p.emmood,29:29,"They buzzed round the prince and stung his face and hands; angrily he drew his sword and brandished it, but he only touched the air and did not hit the gnats.",A:A,A:A
+wicked_p.emmood,30:30,"Then he ordered his servants to bring costly coverings and wrap him in them, that the gnats might no longer be able to reach him.",N:N,A:N
+wicked_p.emmood,31:31,"The servants carried out his orders, but one single gnat had placed itself inside one of the coverings, crept into the prince's ear and stung him.",N:N,N:N
+wicked_p.emmood,32:32,"The place burnt like fire, and the poison entered into his blood.",N:N,-:N
+wicked_p.emmood,33:33,"Mad with pain, he tore off the coverings and his clothes too, flinging them far away, and danced about before the eyes of his ferocious soldiers, who now mocked at him, the mad prince, who wished to make war with God, and was overcome by a single little gnat.",A:A,A:A
+king_grisly-beard.emmood,0:0,"A great king of a land far away in the East had a daughter who was very beautiful, but so proud, and haughty, and conceited, that none of the princes who came to ask her in marriage was good enough for her, and she only made sport of them.",D:N,N:N
+king_grisly-beard.emmood,1:1,"Once upon a time the king held a great feast, and asked thither all her suitors; and they all sat in a row, ranged according to their rank --kings, and princes, and dukes, and earls, and counts, and barons, and knights.",N:N,N:N
+king_grisly-beard.emmood,2:2,"Then the princess came in, and as she passed by them she had something spiteful to say to every one.",A:A,A:N
+king_grisly-beard.emmood,3:3,"The first was too fat: ""He""s as round as a tub,"" said she.",D:N,A:A
+king_grisly-beard.emmood,4:4,"The next was too tall: ""What a maypole!"" said she.",A:N,A:A
+king_grisly-beard.emmood,5:5,"The next was too short: ""What a dumpling!"" said she.",D:N,A:A
+king_grisly-beard.emmood,6:6,"The fourth was too pale, and she called him ""Wallface.""",D:N,A:A
+king_grisly-beard.emmood,7:7,"The fifth was too red, so she called him ""Coxcomb.""",D:N,A:A
+king_grisly-beard.emmood,8:8,"The sixth was not straight enough; so she said he was like a green stick, that had been laid to dry over a baker""s oven.",D:N,A:A
+king_grisly-beard.emmood,9:9,And thus she had some joke to crack upon every one: but she laughed more than all at a good king who was there.,D:N,D:A
+king_grisly-beard.emmood,10:10,"""Look at him,"" said she; ""his beard is like an old mop; he shall be called Grisly-beard.""",D:N,D:A
+king_grisly-beard.emmood,11:11,So the king got the nickname of Grisly-beard.,N:N,D:N
+king_grisly-beard.emmood,12:12,"But the old king was very angry when he saw how his daughter behaved, and how she ill-treated all his guests; and he vowed that, willing or unwilling, she should marry the first man, be he prince or beggar, that came to the door.",A:A,A:A
+king_grisly-beard.emmood,13:13,"Two days after there came by a travelling fiddler, who began to play under the window and beg alms; and when the king heard him, he said, ""Let him come in.""",N:N,A:N
+king_grisly-beard.emmood,14:14,"So they brought in a dirty-looking fellow; and when he had sung before the king and the princess, he begged a boon.",N:N,A:N
+king_grisly-beard.emmood,15:15,"Then the king said, ""You have sung so well, that I will give you my daughter for your wife.""",H:N,N:N
+king_grisly-beard.emmood,16:16,"The princess begged and prayed; but the king said, ""I have sworn to give you to the first comer, and I will keep my word.""",F:Sa,F:F
+king_grisly-beard.emmood,17:17,"So words and tears were of no avail; the parson was sent for, and she was married to the fiddler.",Sa:N,F:S
+king_grisly-beard.emmood,18:18,"When this was over the king said, ""Now get ready to go--you must not stay here--you must travel on with your husband.""",A:N,F:S
+king_grisly-beard.emmood,19:19,"Then the fiddler went his way, and took her with him, and they soon came to a great wood.",N:N,F:N
+king_grisly-beard.emmood,20:20,"""Pray,"" said she, ""whose is this wood?""",F:N,F:F
+king_grisly-beard.emmood,21:21,"""It belongs to King Grisly-beard,"" answered he; ""hadst thou taken him, all had been thine.""",Sa:N,F:N
+king_grisly-beard.emmood,22:22,"""Ah! unlucky wretch that I am!"" sighed she; ""would that I had married King Grisly-beard!""",A:A,A:A
+king_grisly-beard.emmood,23:23,Next they came to some fine meadows.,N:N,A:N
+king_grisly-beard.emmood,24:24,"""Whose are these beautiful green meadows?"" said she.",Su+:N,A:N
+king_grisly-beard.emmood,25:25,"""They belong to King Grisly-beard, hadst thou taken him, they had all been thine.""",Sa:N,A:N
+king_grisly-beard.emmood,26:26,"""Ah! unlucky wretch that I am!"" said she; ""would that I had married King Grisly-beard!""",A:A,A:A
+king_grisly-beard.emmood,27:27,Then they came to a great city.,N:N,A:N
+king_grisly-beard.emmood,28:28,"""Whose is this noble city?"" said she.",Su+:N,A:N
+king_grisly-beard.emmood,29:29,"""It belongs to King Grisly-beard; hadst thou taken him, it had all been thine.""",Sa:N,A:N
+king_grisly-beard.emmood,30:30,"""Ah! wretch that I am!"" sighed she; ""why did I not marry King Grisly-beard?""",A:A,A:A
+king_grisly-beard.emmood,31:31,"""That is no business of mine,"" said the fiddler: ""why should you wish for another husband?",A:A,A:A
+king_grisly-beard.emmood,32:32,"Am not I good enough for you?""",A:A,A:A
+king_grisly-beard.emmood,33:33,At last they came to a small cottage.,N:N,A:N
+king_grisly-beard.emmood,34:34,"""What a paltry place!"" said she; ""to whom does that little dirty hole belong?""",Su-:A,A:A
+king_grisly-beard.emmood,35:35,"Then the fiddler said, ""That is your and my house, where we are to live.""",N:N,A:N
+king_grisly-beard.emmood,36:36,"""Where are your servants?"" cried she.",F:A,F:A
+king_grisly-beard.emmood,37:37,"""What do we want with servants?"" said he; ""you must do for yourself whatever is to be done.",Su-:N,F:A
+king_grisly-beard.emmood,38:38,"Now make the fire, and put on water and cook my supper, for I am very tired.""",A:N,A:A
+king_grisly-beard.emmood,39:39,"But the princess knew nothing of making fires and cooking, and the fiddler was forced to help her.",A:N,A:A
+king_grisly-beard.emmood,40:40,When they had eaten a very scanty meal they went to bed; but the fiddler called her up very early in the morning to clean the house.,A:N,A:N
+king_grisly-beard.emmood,41:41,"Thus they lived for two days: and when they had eaten up all there was in the cottage, the man said, ""Wife, we can""t go on thus, spending money and earning nothing.",A:N,A:N
+king_grisly-beard.emmood,42:42,"You must learn to weave baskets.""",A:N,A:N
+king_grisly-beard.emmood,43:43,"Then he went out and cut willows, and brought them home, and she began to weave; but it made her fingers very sore.",A:N,A:S
+king_grisly-beard.emmood,44:44,"""I see this work won""t do,"" said he: ""try and spin; perhaps you will do that better.""",Sa:N,S:A
+king_grisly-beard.emmood,45:45,So she sat down and tried to spin; but the threads cut her tender fingers till the blood ran.,Sa:N,S:S
+king_grisly-beard.emmood,46:46,"""See now,"" said the fiddler, ""you are good for nothing; you can do no work: what a bargain I have got!",A:A,S:A
+king_grisly-beard.emmood,47:47,"However, I""ll try and set up a trade in pots and pans, and you shall stand in the market and sell them.""",A:N,S:A
+king_grisly-beard.emmood,48:48,"""Alas!"" sighed she, ""if any of my father""s court should pass by and see me standing in the market, how they will laugh at me!""",Sa:F,S:A
+king_grisly-beard.emmood,49:49,"But her husband did not care for that, and said she must work, if she did not wish to die of hunger.",A:N,S:A
+king_grisly-beard.emmood,50:50,"At first the trade went well; for many people, seeing such a beautiful woman, went to buy her wares, and paid their money without thinking of taking away the goods.",H:N,H:N
+king_grisly-beard.emmood,51:51,"They lived on this as long as it lasted; and then her husband bought a fresh lot of ware, and she sat herself down with it in the corner of the market; but a drunken soldier soon came by, and rode his horse against her stall, and broke all her goods into a thousand pieces.",Sa:N,S:S
+king_grisly-beard.emmood,52:52,"Then she began to cry, and knew not what to do.",Sa:Sa,S:S
+king_grisly-beard.emmood,53:53,"""Ah! what will become of me?"" said she; ""what will my husband say?""",F:Sa,S:S
+king_grisly-beard.emmood,54:54,So she ran home and told him all.,F:N,S:S
+king_grisly-beard.emmood,55:55,"""Who would have thought you would have been so silly,"" said he, ""as to put an earthenware stall in the corner of the market, where everybody passes? but let us have no more crying; I see you are not fit for this sort of work, so I have been to the king""s palace, and asked if they did not want a kitchen-maid; and they say they will take you, and there you will have plenty to eat.""",A:N,S:S
+king_grisly-beard.emmood,56:56,"Thus the princess became a kitchen-maid, and helped the cook to do all the dirtiest work; but she was allowed to carry home some of the meat that was left, and on this they lived.",Sa:N,S:S
+king_grisly-beard.emmood,57:57,"She had not been there long before she heard that the king""s eldest son was passing by, going to be married; and she went to one of the windows and looked out.",Su+:N,S:N
+king_grisly-beard.emmood,58:58,"Everything was ready, and all the pomp and brightness of the court was there.",H:N,S:N
+king_grisly-beard.emmood,59:59,Then she bitterly grieved for the pride and folly which had brought her so low.,Sa:Sa,S:S
+king_grisly-beard.emmood,60:60,"And the servants gave her some of the rich meats, which she put into her basket to take home.",H:N,S:N
+king_grisly-beard.emmood,61:61,"All on a sudden, as she was going out, in came the king""s son in golden clothes; and when he saw a beautiful woman at the door, he took her by the hand, and said she should be his partner in the dance; but she trembled for fear, for she saw that it was King Grisly-beard, who was making sport of her.",F:F,F:F
+king_grisly-beard.emmood,62:62,"However, he kept fast hold, and led her in; and the cover of the basket came off, so that the meats in it fell about.",N:N,F:N
+king_grisly-beard.emmood,63:63,"Then everybody laughed and jeered at her; and she was so abashed, that she wished herself a thousand feet deep in the earth.",Sa:Su-,S:-
+king_grisly-beard.emmood,64:64,"She sprang to the door to run away; but on the steps King Grisly-beard overtook her, and brought her back and said, ""Fear me not!",F:N,S:F
+king_grisly-beard.emmood,65:65,I am the fiddler who has lived with you in the hut.,H:N,H:-
+king_grisly-beard.emmood,66:66,I brought you there because I really loved you.,H:H,H:+
+king_grisly-beard.emmood,67:67,I am also the soldier that overset your stall.,H:N,H:+
+king_grisly-beard.emmood,68:68,"I have done all this only to cure you of your silly pride, and to show you the folly of your ill-treatment of me.",H:N,H:+
+king_grisly-beard.emmood,69:69,"Now all is over: you have learnt wisdom, and it is time to hold our marriage feast.""",H:N,H:H
+king_grisly-beard.emmood,70:70,"Then the chamberlains came and brought her the most beautiful robes; and her father and his whole court were there already, and welcomed her home on her marriage.",H:N,H:H
+king_grisly-beard.emmood,71:71,Joy was in every face and every heart.,H:H,H:H
+king_grisly-beard.emmood,72:72,The feast was grand; they danced and sang; all were merry; and I only wish that you and I had been of the party.,H:H,H:H
+iron_hans.emmood,0:0,"There was once upon a time a king who had a great forest near his palace, full of all kinds of wild animals.",N:N,N:N
+iron_hans.emmood,1:1,"One day he sent out a huntsman to shoot him a roe, but he did not come back.",F:N,F:N
+iron_hans.emmood,2:2,"""Perhaps some accident has befallen him,"" said the king, and the next day he sent out two more huntsmen who were to search for him, but they too stayed away.",F:N,F:N
+iron_hans.emmood,3:3,"Then on the third day, he sent for all his huntsmen, and said: ""Scour the whole forest through, and do not give up until you have found all three.""",F:F,F:F
+iron_hans.emmood,4:4,"But of these also, none came home again, none were seen again.",F:N,F:F
+iron_hans.emmood,5:5,"From that time forth, no one would any longer venture into the forest, and it lay there in deep stillness and solitude, and nothing was seen of it, but sometimes an eagle or a hawk flying over it.",N:N,F:N
+iron_hans.emmood,6:6,"This lasted for many years, when an unknown huntsman announced himself to the king as seeking a situation, and offered to go into the dangerous forest.",N:N,F:F
+iron_hans.emmood,7:7,"The king, however, would not give his consent, and said: ""It is not safe in there; I fear it would fare with you no better than with the others, and you would never come out again.""",F:F,F:F
+iron_hans.emmood,8:8,"The huntsman replied: ""Lord, I will venture it at my own risk, of fear I know nothing.""",A:F,F:F
+iron_hans.emmood,9:9,The huntsman therefore betook himself with his dog to the forest.,N:N,F:F
+iron_hans.emmood,10:10,"It was not long before the dog fell in with some game on the way, and wanted to pursue it; but hardly had the dog run two steps when it stood before a deep pool, could go no farther, and a naked arm stretched itself out of the water, seized it, and drew it under.",F:N,F:F
+iron_hans.emmood,11:11,"When the huntsman saw that, he went back and fetched three men to come with buckets and bale out the water.",F:N,F:F
+iron_hans.emmood,12:12,"When they could see to the bottom there lay a wild man whose body was brown like rusty iron, and whose hair hung over his face down to his knees.",D:N,F:N
+iron_hans.emmood,13:13,"They bound him with cords, and led him away to the castle.",N:N,F:N
+iron_hans.emmood,14:14,"There was great astonishment over the wild man; the king, however, had him put in an iron cage in his courtyard, and forbade the door to be opened on pain of death, and the queen herself was to take the key into her keeping.",Su-:N,F:N
+iron_hans.emmood,15:15,And from this time forth everyone could again go into the forest with safety.,H:N,H:N
+iron_hans.emmood,16:16,"The king had a son of eight years, who was once playing in the courtyard, and while he was playing, his golden ball fell into the cage.",Sa:N,H:N
+iron_hans.emmood,17:17,"The boy ran thither and said: ""Give me my ball out.""",A:N,F:N
+iron_hans.emmood,18:18,"""Not till you have opened the door for me,"" answered the man.",A:N,F:N
+iron_hans.emmood,19:19,"""No,"" said the boy, ""I will not do that; the king has forbidden it,"" and ran away.",A:N,F:N
+iron_hans.emmood,20:20,"The next day he again went and asked for his ball; the wild man said: ""Open my door,"" but the boy would not.",F:N,F:N
+iron_hans.emmood,21:21,"On the third day the king had ridden out hunting, and the boy went once more and said: ""I cannot open the door even if I wished, for I have not the key.""",Sa:N,F:N
+iron_hans.emmood,22:22,"Then the wild man said: ""It lies under your mother""s pillow, you can get it there.""",N:N,F:N
+iron_hans.emmood,23:23,"The boy, who wanted to have his ball back, cast all thought to the winds, and brought the key.",Sa:N,F:N
+iron_hans.emmood,24:24,"The door opened with difficulty, and the boy pinched his fingers.",Sa:N,F:N
+iron_hans.emmood,25:25,"When it was open the wild man stepped out, gave him the golden ball, and hurried away.",H:N,F:N
+iron_hans.emmood,26:26,"The boy had become afraid; he called and cried after him: ""Oh, wild man, do not go away, or I shall be beaten!""",F:F,F:F
+iron_hans.emmood,27:27,"The wild man turned back, took him up, set him on his shoulder, and went with hasty steps into the forest.",N:N,F:N
+iron_hans.emmood,28:28,"When the king came home, he observed the empty cage, and asked the queen how that had happened.",A:N,A:F
+iron_hans.emmood,29:29,"She knew nothing about it, and sought the key, but it was gone.",Su-:N,A:F
+iron_hans.emmood,30:30,"She called the boy, but no one answered.",F:N,F:N
+iron_hans.emmood,31:31,"The king sent out people to seek for him in the fields, but they did not find him.",F:N,F:N
+iron_hans.emmood,32:32,"Then he could easily guess what had happened, and much grief reigned in the royal court.",Sa:Sa,S:S
+iron_hans.emmood,33:33,"When the wild man had once more reached the dark forest, he took the boy down from his shoulder, and said to him: ""You will never see your father and mother again, but I will keep you with me, for you have set me free, and I have compassion on you.",Sa:N,S:N
+iron_hans.emmood,34:34,"If you do all I bid you, you shall fare well.",H:N,S:N
+iron_hans.emmood,35:35,"Of treasure and gold have I enough, and more than anyone in the world.""",H:N,S:N
+iron_hans.emmood,36:36,"He made a bed of moss for the boy on which he slept, and the next morning the man took him to a well, and said: ""Behold, the gold well is as bright and clear as crystal, you shall sit beside it, and take care that nothing falls into it, or it will be polluted.",F:N,F:N
+iron_hans.emmood,37:37,"I will come every evening to see if you have obeyed my order.""",N:N,F:N
+iron_hans.emmood,38:38,"The boy placed himself by the brink of the well, and often saw a golden fish or a golden snake show itself therein, and took care that nothing fell in.",F:N,F:N
+iron_hans.emmood,39:39,"As he was thus sitting, his finger hurt him so violently that he involuntarily put it in the water.",Sa:N,F:N
+iron_hans.emmood,40:40,"He drew it quickly out again, but saw that it was quite gilded, and whatsoever pains he took to wash the gold off again, all was to no purpose.",F:N,F:-
+iron_hans.emmood,41:41,"In the evening Iron Hans came back, looked at the boy, and said: ""What has happened to the well?""",A:A,F:A
+iron_hans.emmood,42:42,"""Nothing nothing,"" he answered, and held his finger behind his back, that the man might not see it.",F:F,F:F
+iron_hans.emmood,43:43,"But he said: ""You have dipped your finger into the water, this time it may pass, but take care you do not again let anything go in.""",A:N,F:N
+iron_hans.emmood,44:44,By daybreak the boy was already sitting by the well and watching it.,N:N,F:N
+iron_hans.emmood,45:45,"His finger hurt him again and he passed it over his head, and then unhappily a hair fell down into the well.",F:Sa,F:S
+iron_hans.emmood,46:46,"He took it quickly out, but it was already quite gilded.",F:N,F:F
+iron_hans.emmood,47:47,"Iron Hans came, and already knew what had happened.",A:N,F:A
+iron_hans.emmood,48:48,"""You have let a hair fall into the well,"" said he.",A:N,F:A
+iron_hans.emmood,49:49,"""I will allow you to watch by it once more, but if this happens for the third time then the well is polluted and you can no longer remain with me.""",A:N,F:A
+iron_hans.emmood,50:50,"On the third day, the boy sat by the well, and did not stir his finger, however much it hurt him.",F:N,F:N
+iron_hans.emmood,51:51,"But the time was long to him, and he looked at the reflection of his face on the surface of the water.",Sa:N,F:N
+iron_hans.emmood,52:52,"And as he still bent down more and more while he was doing so, and trying to look straight into the eyes, his long hair fell down from his shoulders into the water.",Su-:N,F:N
+iron_hans.emmood,53:53,"He raised himself up quickly, but the whole of the hair of his head was already golden and shone like the sun.",Su-:N,F:F
+iron_hans.emmood,54:54,You can imagine how terrified the poor boy was!,F:F,F:F
+iron_hans.emmood,55:55,"He took his pockethandkerchief and tied it round his head, in order that the man might not see it.",F:N,F:F
+iron_hans.emmood,56:56,"When he came he already knew everything, and said: ""Take the handkerchief off.""",A:N,A:A
+iron_hans.emmood,57:57,"Then the golden hair streamed forth, and let the boy excuse himself as he might, it was of no use.",Sa:N,A:F
+iron_hans.emmood,58:58,"""You have not stood the trial and can stay here no longer.",A:N,A:A
+iron_hans.emmood,59:59,"Go forth into the world, there you will learn what poverty is.",A:N,A:A
+iron_hans.emmood,60:60,"But as you have not a bad heart, and as I mean well by you, there is one thing I will grant you; if you fall into any difficulty, come to the forest and cry: ""Iron Hans,"" and then I will come and help you.",Sa:N,S:N
+iron_hans.emmood,61:61,"My power is great, greater than you think, and I have gold and silver in abundance.""",N:N,S:N
+iron_hans.emmood,62:62,"Then the king""s son left the forest, and walked by beaten and unbeaten paths ever onwards until at length he reached a great city.",N:N,S:N
+iron_hans.emmood,63:63,"There he looked for work, but could find none, and he learnt nothing by which he could help himself.",Sa:N,S:N
+iron_hans.emmood,64:64,"At length he went to the palace, and asked if they would take him in.",N:N,S:N
+iron_hans.emmood,65:65,"The people about court did not at all know what use they could make of him, but they liked him, and told him to stay.",Su+:N,S:N
+iron_hans.emmood,66:66,"At length the cook took him into his service, and said he might carry wood and water, and rake the cinders together.",N:N,S:N
+iron_hans.emmood,67:67,"Once when it so happened that no one else was at hand, the cook ordered him to carry the food to the royal table, but as he did not like to let his golden hair be seen, he kept his little cap on.",F:N,F:N
+iron_hans.emmood,68:68,"Such a thing as that had never yet come under the king""s notice, and he said: ""When you come to the royal table you must take your hat off.""",A:N,F:A
+iron_hans.emmood,69:69,"He answered: ""Ah, Lord, I cannot; I have a bad sore place on my head.""",F:N,F:N
+iron_hans.emmood,70:70,"Then the king had the cook called before him and scolded him, and asked how he could take such a boy as that into his service; and that he was to send him away at once.",A:A,F:A
+iron_hans.emmood,71:71,"The cook, however, had pity on him, and exchanged him for the gardener""s boy.",Sa:N,S:N
+iron_hans.emmood,72:72,"And now the boy had to plant and water the garden, hoe and dig, and bear the wind and bad weather.",Sa:N,S:N
+iron_hans.emmood,73:73,"Once in summer when he was working alone in the garden, the day was so warm he took his little cap off that the air might cool him.",N:N,S:N
+iron_hans.emmood,74:74,"As the sun shone on his hair it glittered and flashed so that the rays fell into the bedroom of the king""s daughter, and up she sprang to see what that could be.",Su+:N,+:N
+iron_hans.emmood,75:75,"Then she saw the boy, and cried to him: ""Boy, bring me a wreath of flowers.""",Su+:N,+:N
+iron_hans.emmood,76:76,"He put his cap on with all haste, and gathered wild field-flowers and bound them together.",F:N,F:N
+iron_hans.emmood,77:77,"When he was ascending the stairs with them, the gardener met him, and said: ""How can you take the king""s daughter a garland of such common flowers?",A:N,F:N
+iron_hans.emmood,78:78,"Go quickly, and get another, and seek out the prettiest and rarest.""",A:N,F:N
+iron_hans.emmood,79:79,"""Oh, no,"" replied the boy, ""the wild ones have more scent, and will please her better.""",A:N,F:N
+iron_hans.emmood,80:80,"When he got into the room, the king""s daughter said: ""Take your cap off, it is not seemly to keep it on in my presence.""",N:N,F:N
+iron_hans.emmood,81:81,"He again said: ""I may not, I have a sore head.""",F:N,F:N
+iron_hans.emmood,82:82,"She, however, caught at his cap and pulled it off, and then his golden hair rolled down on his shoulders, and it was splendid to behold.",Su+:N,F:H
+iron_hans.emmood,83:83,"He wanted to run out, but she held him by the arm, and gave him a handful of ducats.",Su-:N,F:H
+iron_hans.emmood,84:84,"With these he departed, but he cared nothing for the gold pieces.",N:N,F:N
+iron_hans.emmood,85:85,"He took them to the gardener, and said: ""I present them to your children, they can play with them.""",H:N,F:N
+iron_hans.emmood,86:86,"The following day the king""s daughter again called to him that he was to bring her a wreath of field-flowers, and then he went in with it, she instantly snatched at his cap, and wanted to take it away from him, but he held it fast with both hands.",Su-:N,F:N
+iron_hans.emmood,87:87,"She again gave him a handful of ducats, but he would not keep them, and gave them to the gardener for playthings for his children.",N:N,F:N
+iron_hans.emmood,88:88,"On the third day things went just the same; she could not get his cap away from him, and he would not have her money.",A:N,F:N
+iron_hans.emmood,89:89,"Not long afterwards, the country was overrun by war.",N:N,F:S
+iron_hans.emmood,90:90,"The king gathered together his people, and did not know whether or not he could offer any opposition to the enemy, who was superior in strength and had a mighty army.",F:F,F:F
+iron_hans.emmood,91:91,"Then said the gardener""s boy: ""I am grown up, and will go to the wars also, only give me a horse.""",A:N,F:N
+iron_hans.emmood,92:92,"The others laughed, and said: ""Seek one for yourself when we are gone, we will leave one behind us in the stable for you.""",Su-:N,A:N
+iron_hans.emmood,93:93,"When they had gone forth, he went into the stable, and led the horse out; it was lame of one foot, and limped hobblety jib, hobblety jib; nevertheless he mounted it, and rode away to the dark forest.",A:N,A:N
+iron_hans.emmood,94:94,"When he came to the outskirts, he called ""Iron Hans"" three times so loudly that it echoed through the trees.",N:N,A:N
+iron_hans.emmood,95:95,"Thereupon the wild man appeared immediately, and said: ""What do you desire?""",N:N,A:N
+iron_hans.emmood,96:96,"""I want a strong steed, for I am going to the wars.""",N:N,A:N
+iron_hans.emmood,97:97,"""That you shall have, and still more than you ask for.""",H:N,H:N
+iron_hans.emmood,98:98,"Then the wild man went back into the forest, and it was not long before a stable-boy came out of it, who led a horse that snorted with its nostrils, and could hardly be restrained, and behind them followed a great troop of warriors entirely equipped in iron, and their swords flashed in the sun.",H:N,H:N
+iron_hans.emmood,99:99,"The youth made over his three-legged horse to the stable-boy, mounted the other, and rode at the head of the soldiers.",H:N,H:N
+iron_hans.emmood,100:100,"When he got near the battlefield a great part of the king""s men had already fallen, and little was wanting to make the rest give way.",Sa:N,S:S
+iron_hans.emmood,101:101,"Then the youth galloped thither with his iron soldiers, broke like a hurricane over the enemy, and beat down all who opposed him.",A:N,H:N
+iron_hans.emmood,102:102,"They began to flee, but the youth pursued, and never stopped, until there was not a single man left.",H:N,H:N
+iron_hans.emmood,103:103,"Instead of returning to the king, however, he conducted his troop by byways back to the forest, and called forth Iron Hans.",H:N,H:N
+iron_hans.emmood,104:104,"""What do you desire?"" asked the wild man.",N:N,H:N
+iron_hans.emmood,105:105,"""Take back your horse and your troops, and give me my three-legged horse again.""",N:N,H:N
+iron_hans.emmood,106:106,"All that he asked was done, and soon he was riding on his three-legged horse.",H:N,H:N
+iron_hans.emmood,107:107,"When the king returned to his palace, his daughter went to meet him, and wished him joy of his victory.",H:H,H:H
+iron_hans.emmood,108:108,"""I am not the one who carried away the victory,"" said he, ""but a strange knight who came to my assistance with his soldiers.""",N:N,H:N
+iron_hans.emmood,109:109,"The daughter wanted to hear who the strange knight was, but the king did not know, and said: ""He followed the enemy, and I did not see him again.""",Su+:N,H:N
+iron_hans.emmood,110:110,"She inquired of the gardener where his boy was, but he smiled, and said: ""He has just come home on his threelegged horse, and the others have been mocking him, and crying: ""Here comes our hobblety jib back again!""",Su+:H,H:H
+iron_hans.emmood,111:111,"They asked, too: ""Under what hedge have you been lying sleeping all the time?""",N:N,A:N
+iron_hans.emmood,112:112,"So he said: ""I did the best of all, and it would have gone badly without me.""",A:N,A:N
+iron_hans.emmood,113:113,"And then he was still more ridiculed.""",A:N,A:N
+iron_hans.emmood,114:114,"The king said to his daughter: ""I will proclaim a great feast that shall last for three days, and you shall throw a golden apple.",N:N,A:H
+iron_hans.emmood,115:115,"Perhaps the unknown man will show himself.""",N:N,A:N
+iron_hans.emmood,116:116,"When the feast was announced, the youth went out to the forest, and called Iron Hans.",H:N,H:N
+iron_hans.emmood,117:117,"""What do you desire?"" asked he.",N:N,H:N
+iron_hans.emmood,118:118,"""That I may catch the king""s daughter""s golden apple.""",H:N,H:N
+iron_hans.emmood,119:119,"""It is as safe as if you had it already,"" said Iron Hans.",H:N,H:N
+iron_hans.emmood,120:120,"""You shall likewise have a suit of red armour for the occasion, and ride on a spirited chestnut-horse.""",H:N,H:N
+iron_hans.emmood,121:121,"When the day came, the youth galloped to the spot, took his place amongst the knights, and was recognized by no one.",H:N,H:N
+iron_hans.emmood,122:122,"The king""s daughter came forward, and threw a golden apple to the knights, but none of them caught it but he, only as soon as he had it he galloped away.",H:N,H:N
+iron_hans.emmood,123:123,"On the second day Iron Hans equipped him as a white knight, and gave him a white horse.",N:N,H:N
+iron_hans.emmood,124:124,"Again he was the only one who caught the apple, and he did not linger an instant, but galloped off with it.",H:N,H:H
+iron_hans.emmood,125:125,"The king grew angry, and said: ""That is not allowed; he must appear before me and tell his name.""",A:A,H:A
+iron_hans.emmood,126:126,"He gave the order that if the knight who caught the apple, should go away again they should pursue him, and if he would not come back willingly, they were to cut him down and stab him.",A:N,A:A
+iron_hans.emmood,127:127,"On the third day, he received from Iron Hans a suit of black armour and a black horse, and again he caught the apple.",H:N,A:N
+iron_hans.emmood,128:128,"But when he was riding off with it, the king""s attendants pursued him, and one of them got so near him that he wounded the youth""s leg with the point of his sword.",A:N,A:S
+iron_hans.emmood,129:129,"The youth nevertheless escaped from them, but his horse leapt so violently that the helmet fell from the youth""s head, and they could see that he had golden hair.",H:N,H:A
+iron_hans.emmood,130:130,They rode back and announced this to the king.,N:N,H:N
+iron_hans.emmood,131:131,"The following day the king""s daughter asked the gardener about his boy.",N:N,H:N
+iron_hans.emmood,132:132,"""He is at work in the garden; the queer creature has been at the festival too, and only came home yesterday evening; he has likewise shown my children three golden apples which he has won.""",H:N,H:H
+iron_hans.emmood,133:133,"The king had him summoned into his presence, and he came and again had his little cap on his head.",N:N,H:N
+iron_hans.emmood,134:134,"But the king""s daughter went up to him and took it off, and then his golden hair fell down over his shoulders, and he was so handsome that all were amazed.",H:N,H:H
+iron_hans.emmood,135:135,"""Are you the knight who came every day to the festival, always in different colours, and who caught the three golden apples?"" asked the king.",Su+:N,H:H
+iron_hans.emmood,136:136,"""Yes,"" answered he, ""and here the apples are,"" and he took them out of his pocket, and returned them to the king.",H:N,H:H
+iron_hans.emmood,137:137,"""If you desire further proof, you may see the wound which your people gave me when they followed me.",N:N,H:H
+iron_hans.emmood,138:138,"But I am likewise the knight who helped you to your victory over your enemies.""",H:N,H:H
+iron_hans.emmood,139:139,"""If you can perform such deeds as that, you are no gardener""s boy; tell me, who is your father?""",Su+:N,H:N
+iron_hans.emmood,140:140,"""My father is a mighty king, and gold have I in plenty as great as I require.""",H:N,H:H
+iron_hans.emmood,141:141,"""I well see,"" said the king, ""that I owe my thanks to you; can I do anything to please you?""",Su+:N,H:N
+iron_hans.emmood,142:142,"""Yes,"" answered he, ""that indeed you can.",H:N,H:H
+iron_hans.emmood,143:143,"Give me your daughter to wife.""",N:N,H:N
+iron_hans.emmood,144:144,"The maiden laughed, and said: ""He does not stand much on ceremony, but I have already seen by his golden hair that he was no gardener""s boy,"" and then she went and kissed him.",H:H,H:H
+iron_hans.emmood,145:145,"His father and mother came to the wedding, and were in great delight, for they had given up all hope of ever seeing their dear son again.",H:H,H:H
+iron_hans.emmood,146:146,"And as they were sitting at the marriage-feast, the music suddenly stopped, the doors opened, and a stately king came in with a great retinue.",Su+:N,+:+
+iron_hans.emmood,147:147,"He went up to the youth, embraced him and said: ""I am Iron Hans, and was by enchantment a wild man, but you have set me free; all the treasures which I possess, shall be your property.""",H:N,+:H
+top_ball.emmood,0:0,"A WHIPPING TOP and a little ball lay together in a box, among other toys, and the top said to the ball, ""Shall we be married, as we live in the same box?""",N:N,N:N
+top_ball.emmood,1:1,"But the ball, which wore a dress of morocco leather, and thought as much of herself as any other young lady, would not even condescend to reply.",D:D,D:D
+top_ball.emmood,2:2,"The next day came the little boy to whom the playthings belonged, and he painted the top red and yellow, and drove a brass-headed nail into the middle, so that while the top was spinning round it looked splendid.",N:N,N:H
+top_ball.emmood,3:3,"""Look at me,"" said the top to the ball.",H:N,H:H
+top_ball.emmood,4:4,"""What do you say now?",N:N,N:N
+top_ball.emmood,5:5,Shall we be engaged to each other?,N:N,N:N
+top_ball.emmood,6:6,"We should suit so well; you spring, and I dance.",N:N,N:H
+top_ball.emmood,7:7,"No one could be happier than we should be.""",H:N,H:H
+top_ball.emmood,8:8,"""Indeed! do you think so?",N:N,H:N
+top_ball.emmood,9:9,"Perhaps you do not know that my father and mother were morocco slippers, and that I have a Spanish cork in my body.""",N:N,N:N
+top_ball.emmood,10:10,"""Yes; but I am made of mahogany,"" said the top.",N:N,N:N
+top_ball.emmood,11:11,"""The major himself turned me.",N:N,N:N
+top_ball.emmood,12:12,"He has a turning lathe of his own, and it is a great amusement to him.""",N:N,N:N
+top_ball.emmood,13:13,"""Can I believe it?"" asked the ball.",N:N,N:+
+top_ball.emmood,14:14,"""May I never be whipped again,"" said the top, ""if I am not telling you the truth.""",N:N,N:H
+top_ball.emmood,15:15,"""You certainly know how to speak for yourself very well,"" said the ball; ""but I cannot accept your proposal.",N:N,N:N
+top_ball.emmood,16:16,I am almost engaged to a swallow.,N:N,N:S
+top_ball.emmood,17:17,"Every time I fly up in the air, he puts his head out of the nest, and says, 'Will you?' and I have said, 'Yes,' to myself silently, and that is as good as being half engaged; but I will promise never to forget you.""",H:N,H:S
+top_ball.emmood,18:18,"""Much good that will be to me,"" said the top; and they spoke to each other no more.",A:N,S:A
+top_ball.emmood,19:19,Next day the ball was taken out by the boy.,N:N,N:N
+top_ball.emmood,20:20,"The top saw it flying high in the air, like a bird, till it would go quite out of sight.",N:N,N:N
+top_ball.emmood,21:21,"Each time it came back, as it touched the earth, it gave a higher leap than before, either because it longed to fly upwards, or from having a Spanish cork in its body.",N:N,N:N
+top_ball.emmood,22:22,"But the ninth time it rose in the air, it remained away, and did not return.",Su-:N,-:S
+top_ball.emmood,23:23,"The boy searched everywhere for it, but he searched in vain, for it could not be found; it was gone.",Sa:N,S:S
+top_ball.emmood,24:24,"""I know very well where she is,"" sighed the top; ""she is in the swallow's nest, and has married the swallow.""",Sa:Sa,S:S
+top_ball.emmood,25:25,"The more the top thought of this, the more he longed for the ball.",N:Sa,S:S
+top_ball.emmood,26:26,"His love increased the more, just because he could not get her; and that she should have been won by another, was the worst of all.",N:N,S:S
+top_ball.emmood,27:27,"The top still twirled about and hummed, but he continued to think of the ball; and the more he thought of her, the more beautiful she seemed to his fancy.",N:N,S:S
+top_ball.emmood,28:28,"Thus several years passed by, and his love became quite old.",N:N,N:N
+top_ball.emmood,29:29,"The top, also, was no longer young; but there came a day when he looked handsomer than ever; for he was gilded all over.",N:N,N:N
+top_ball.emmood,30:30,"He was now a golden top, and whirled and danced about till he hummed quite loud, and was something worth looking at; but one day he leaped too high, and then he, also, was gone.",N:N,N:H
+top_ball.emmood,31:31,"They searched everywhere, even in the cellar, but he was nowhere to be found.",N:N,N:-
+top_ball.emmood,32:32,Where could he be?,N:N,N:-
+top_ball.emmood,33:33,"He had jumped into the dust-bin, where all sorts of rubbish were lying: cabbage-stalks, dust, and rain-droppings that had fallen down from the gutter under the roof.",N:N,N:S
+top_ball.emmood,34:34,"""Now I am in a nice place,"" said he; ""my gilding will soon be washed off here.",H:N,H:S
+top_ball.emmood,35:35,"Oh dear, what a set of rabble I have got amongst!""",Su-:N,-:S
+top_ball.emmood,36:36,"And then he glanced at a curious round thing like an old apple, which lay near a long, leafless cabbage-stalk.",N:N,N:-
+top_ball.emmood,37:37,"It was, however, not an apple, but an old ball, which had lain for years in the gutter, and was soaked through with water.",N:N,N:S
+top_ball.emmood,38:38,"""Thank goodness, here comes one of my own class, with whom I can talk,"" said the ball, examining the gilded top.",Su+:N,H:H
+top_ball.emmood,39:39,"""I am made of morocco,"" she said.",N:N,N:N
+top_ball.emmood,40:40,"""I was sewn together by a young lady, and I have a Spanish cork in my body; but no one would think it, to look at me now.",N:N,N:S
+top_ball.emmood,41:41,"I was once engaged to a swallow; but I fell in here from the gutter under the roof, and I have lain here more than five years, and have been thoroughly drenched.",N:N,N:S
+top_ball.emmood,42:42,"Believe me, it is a long time for a young maiden.""",N:N,N:S
+top_ball.emmood,43:43,"The top said nothing, but he thought of his old love; and the more she said, the more clear it became to him that this was the same ball.",N:N,N:+
+top_ball.emmood,44:44,The servant then came to clean out the dust-bin.,N:N,N:N
+top_ball.emmood,45:45,"""Ah,"" she exclaimed, ""here is a gilt top.""",Su+:Su+,+:+
+top_ball.emmood,46:46,"So the top was brought again to notice and honor, but nothing more was heard of the little ball.",N:N,N:H
+top_ball.emmood,47:47,He spoke not a word about his old love; for that soon died away.,N:N,N:N
+top_ball.emmood,48:48,"When the beloved object has lain for five years in a gutter, and has been drenched through, no one cares to know her again on meeting her in a dust-bin.",N:N,N:H
+cat-skin.emmood,0:0,"There was once a king, whose queen had hair of the purest gold, and was so beautiful that her match was not to be met with on the whole face of the earth.",N:N,N:N
+cat-skin.emmood,1:1,"But this beautiful queen fell ill, and when she felt that her end drew near she called the king to her and said, ""Promise me that you will never marry again, unless you meet with a wife who is as beautiful as I am, and who has golden hair like mine.""",Sa:Sa,S:S
+cat-skin.emmood,2:2,"Then when the king in his grief promised all she asked, she shut her eyes and died.",Sa:Sa,S:S
+cat-skin.emmood,3:3,"But the king was not to be comforted, and for a long time never thought of taking another wife.",Sa:Sa,S:S
+cat-skin.emmood,4:4,"At last, however, his wise men said, ""this will not do; the king must marry again, that we may have a queen.""",N:A,N:S
+cat-skin.emmood,5:5,"So messengers were sent far and wide, to seek for a bride as beautiful as the late queen.",N:N,N:N
+cat-skin.emmood,6:6,"But there was no princess in the world so beautiful; and if there had been, still there was not one to be found who had golden hair.",N:N,N:N
+cat-skin.emmood,7:7,"So the messengers came home, and had had all their trouble for nothing.",N:Sa,N:S
+cat-skin.emmood,8:8,"Now the king had a daughter, who was just as beautiful as her mother, and had the same golden hair.",N:N,N:N
+cat-skin.emmood,9:9,"And when she was grown up, the king looked at her and saw that she was just like this late queen: then he said to his courtiers, ""May I not marry my daughter?",N:N,N:N
+cat-skin.emmood,10:10,"She is the very image of my dead wife: unless I have her, I shall not find any bride upon the whole earth, and you say there must be a queen.""",N:A,N:A
+cat-skin.emmood,11:11,"When the courtiers heard this they were shocked, and said, ""Heaven forbid that a father should marry his daughter!",Su-:Su-,-:-
+cat-skin.emmood,12:12,"Out of so great a sin no good can come.""",Su-:D,-:D
+cat-skin.emmood,13:13,"And his daughter was also shocked, but hoped the king would soon give up such thoughts; so she said to him, ""Before I marry anyone I must have three dresses: one must be of gold, like the sun; another must be of shining silver, like the moon; and a third must be dazzling as the stars: besides this, I want a mantle of a thousand different kinds of fur put together, to which every beast in the kingdom must give a part of his skin.""",Su-:Su-,-:-
+cat-skin.emmood,14:14,And thus she though he would think of the matter no more.,N:N,N:-
+cat-skin.emmood,15:15,"But the king made the most skilful workmen in his kingdom weave the three dresses: one golden, like the sun; another silvery, like the moon; and a third sparkling, like the stars: and his hunters were told to hunt out all the beasts in his kingdom, and to take the finest fur out of their skins: and thus a mantle of a thousand furs was made.",N:N,N:N
+cat-skin.emmood,16:16,"When all were ready, the king sent them to her; but she got up in the night when all were asleep, and took three of her trinkets, a golden ring, a golden necklace, and a golden brooch, and packed the three dresses--of the sun, the moon, and the stars--up in a nutshell, and wrapped herself up in the mantle made of all sorts of fur, and besmeared her face and hands with soot.",N:N,N:N
+cat-skin.emmood,17:17,"Then she threw herself upon Heaven for help in her need, and went away, and journeyed on the whole night, till at last she came to a large wood.",F:F,F:F
+cat-skin.emmood,18:18,"As she was very tired, she sat herself down in the hollow of a tree and soon fell asleep: and there she slept on till it was midday.",N:N,N:N
+cat-skin.emmood,19:19,"Now as the king to whom the wood belonged was hunting in it, his dogs came to the tree, and began to snuff about, and run round and round, and bark.",N:N,N:N
+cat-skin.emmood,20:20,"""Look sharp!"" said the king to the huntsmen, ""and see what sort of game lies there.""",Su+:Su+,+:+
+cat-skin.emmood,21:21,"And the huntsmen went up to the tree, and when they came back again said, ""In the hollow tree there lies a most wonderful beast, such as we never saw before; its skin seems to be of a thousand kinds of fur, but there it lies fast asleep.""",Su+:Su+,+:+
+cat-skin.emmood,22:22,"""See,"" said the king, ""if you can catch it alive, and we will take it with us.""",N:H,N:H
+cat-skin.emmood,23:23,"So the huntsmen took it up, and the maiden awoke and was greatly frightened, and said, ""I am a poor child that has neither father nor mother left; have pity on me and take me with you.""",F:F,F:F
+cat-skin.emmood,24:24,"Then they said, ""Yes, Miss Cat-skin, you will do for the kitchen; you can sweep up the ashes, and do things of that sort.""",N:N,N:N
+cat-skin.emmood,25:25,"So they put her into the coach, and took her home to the king""s palace.",N:N,N:N
+cat-skin.emmood,26:26,"Then they showed her a little corner under the staircase, where no light of day ever peeped in, and said, ""Cat-skin, you may lie and sleep there.""",N:Sa,N:S
+cat-skin.emmood,27:27,"And she was sent into the kitchen, and made to fetch wood and water, to blow the fire, pluck the poultry, pick the herbs, sift the ashes, and do all the dirty work.",N:N,N:S
+cat-skin.emmood,28:28,Thus Cat-skin lived for a long time very sorrowfully.,Sa:Sa,S:S
+cat-skin.emmood,29:29,"""Ah! pretty princess!"" thought she, ""what will now become of thee?""",F:F,F:S
+cat-skin.emmood,30:30,"But it happened one day that a feast was to be held in the king""s castle, so she said to the cook, ""May I go up a little while and see what is going on?",N:N,N:N
+cat-skin.emmood,31:31,"I will take care and stand behind the door.""",N:N,N:N
+cat-skin.emmood,32:32,"And the cook said, ""Yes, you may go, but be back again in half an hour""s time, to rake out the ashes.""",N:N,N:N
+cat-skin.emmood,33:33,"Then she took her little lamp, and went into her cabin, and took off the fur skin, and washed the soot from off her face and hands, so that her beauty shone forth like the sun from behind the clouds.",N:N,N:N
+cat-skin.emmood,34:34,"She next opened her nutshell, and brought out of it the dress that shone like the sun, and so went to the feast.",N:N,N:N
+cat-skin.emmood,35:35,"Everyone made way for her, for nobody knew her, and they thought she could be no less than a king""s daughter.",Su+:N,+:N
+cat-skin.emmood,36:36,"But the king came up to her, and held out his hand and danced with her; and he thought in his heart, ""I never saw any one half so beautiful.""",H:H,H:H
+cat-skin.emmood,37:37,"When the dance was at an end she curtsied; and when the king looked round for her, she was gone, no one knew wither.",N:Su-,N:-
+cat-skin.emmood,38:38,The guards that stood at the castle gate were called in: but they had seen no one.,N:Su-,N:-
+cat-skin.emmood,39:39,"The truth was, that she had run into her little cabin, pulled off her dress, blackened her face and hands, put on the fur-skin cloak, and was Catskin again.",N:N,N:N
+cat-skin.emmood,40:40,"When she went into the kitchen to her work, and began to rake the ashes, the cook said, ""Let that alone till the morning, and heat the king""s soup; I should like to run up now and give a peep: but take care you don""t let a hair fall into it, or you will run a chance of never eating again.""",N:A,N:A
+cat-skin.emmood,41:41,"As soon as the cook went away, Cat-skin heated the king""s soup, and toasted a slice of bread first, as nicely as ever she could; and when it was ready, she went and looked in the cabin for her little golden ring, and put it into the dish in which the soup was.",N:N,N:N
+cat-skin.emmood,42:42,"When the dance was over, the king ordered his soup to be brought in; and it pleased him so well, that he thought he had never tasted any so good before.",H:H,H:H
+cat-skin.emmood,43:43,"At the bottom he saw a gold ring lying; and as he could not make out how it had got there, he ordered the cook to be sent for.",Su+:Su+,H:+
+cat-skin.emmood,44:44,"The cook was frightened when he heard the order, and said to Cat-skin, ""You must have let a hair fall into the soup; if it be so, you will have a good beating.""",F:F,F:F
+cat-skin.emmood,45:45,"Then he went before the king, and he asked him who had cooked the soup.",N:N,N:F
+cat-skin.emmood,46:46,"""I did,"" answered the cook.",N:N,N:F
+cat-skin.emmood,47:47,"But the king said, ""That is not true; it was better done than you could do it.""",D:D,N:D
+cat-skin.emmood,48:48,"Then he answered, ""To tell the truth I did not cook it, but Cat-skin did.""",N:N,N:N
+cat-skin.emmood,49:49,"""Then let Cat-skin come up,"" said the king: and when she came he said to her, ""Who are you?""",N:N,N:N
+cat-skin.emmood,50:50,"""I am a poor child,"" said she, ""that has lost both father and mother.""",Sa:Sa,N:S
+cat-skin.emmood,51:51,"""How came you in my palace?"" asked he.",N:N,N:N
+cat-skin.emmood,52:52,"""I am good for nothing,"" said she, ""but to be scullion-girl, and to have boots and shoes thrown at my head.""",Sa:D,S:D
+cat-skin.emmood,53:53,"""But how did you get the ring that was in the soup?"" asked the king.",N:Su-,N:-
+cat-skin.emmood,54:54,Then she would not own that she knew anything about the ring; so the king sent her away again about her business.,N:N,N:N
+cat-skin.emmood,55:55,"After a time there was another feast, and Cat-skin asked the cook to let her go up and see it as before.",N:N,N:N
+cat-skin.emmood,56:56,"""Yes,"" said he, ""but come again in half an hour, and cook the king the soup that he likes so much.""",N:N,N:N
+cat-skin.emmood,57:57,"Then she ran to her little cabin, washed herself quickly, and took her dress out which was silvery as the moon, and put it on; and when she went in, looking like a king""s daughter, the king went up to her, and rejoiced at seeing her again, and when the dance began he danced with her.",H:H,H:H
+cat-skin.emmood,58:58,"After the dance was at an end she managed to slip out, so slyly that the king did not see where she was gone; but she sprang into her little cabin, and made herself into Cat-skin again, and went into the kitchen to cook the soup.",N:N,N:N
+cat-skin.emmood,59:59,"Whilst the cook was above stairs, she got the golden necklace and dropped it into the soup; then it was brought to the king, who ate it, and it pleased him as well as before; so he sent for the cook, who was again forced to tell him that Cat-skin had cooked it.",H:H,H:H
+cat-skin.emmood,60:60,"Cat-skin was brought again before the king, but she still told him that she was only fit to have boots and shoes thrown at her head.",Sa:D,S:D
+cat-skin.emmood,61:61,"But when the king had ordered a feast to be got ready for the third time, it happened just the same as before.",N:N,N:N
+cat-skin.emmood,62:62,"""You must be a witch, Catskin,"" said the cook; ""for you always put something into your soup, so that it pleases the king better than mine.""",A:A,N:A
+cat-skin.emmood,63:63,"However, he let her go up as before.",N:N,N:N
+cat-skin.emmood,64:64,"Then she put on her dress which sparkled like the stars, and went into the ball-room in it; and the king danced with her again, and thought she had never looked so beautiful as she did then.",H:H,H:H
+cat-skin.emmood,65:65,"So whilst he was dancing with her, he put a gold ring on her finger without her seeing it, and ordered that the dance should be kept up a long time.",N:N,N:N
+cat-skin.emmood,66:66,"When it was at an end, he would have held her fast by the hand, but she slipped away, and sprang so quickly through the crowd that he lost sight of her: and she ran as fast as she could into her little cabin under the stairs.",N:Su-,N:-
+cat-skin.emmood,67:67,"But this time she kept away too long, and stayed beyond the half-hour; so she had not time to take off her fine dress, and threw her fur mantle over it, and in her haste did not blacken herself all over with soot, but left one of her fingers white.",N:N,N:N
+cat-skin.emmood,68:68,"Then she ran into the kitchen, and cooked the king""s soup; and as soon as the cook was gone, she put the golden brooch into the dish.",N:N,N:N
+cat-skin.emmood,69:69,"When the king got to the bottom, he ordered Cat-skin to be called once more, and soon saw the white finger, and the ring that he had put on it whilst they were dancing: so he seized her hand, and kept fast hold of it, and when she wanted to loose herself and spring away, the fur cloak fell off a little on one side, and the starry dress sparkled underneath it.",N:Su+,H:+
+cat-skin.emmood,70:70,"Then he got hold of the fur and tore it off, and her golden hair and beautiful form were seen, and she could no longer hide herself: so she washed the soot and ashes from her face, and showed herself to be the most beautiful princess upon the face of the earth.",N:Su+,H:+
+cat-skin.emmood,71:71,"But the king said, ""You are my beloved bride, and we will never more be parted from each other.""",H:H,H:H
+cat-skin.emmood,72:72,"And the wedding feast was held, and a merry day it was, as ever was heard of or seen in that country, or indeed in any other.",H:H,H:H
+the_tale_of_timmy_tiptoes.emmood,0:0,"Once upon a time there was a little fat comfortable grey squirrel, called Timmy Tiptoes.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,1:1,He had a nest thatched with leaves in the top of a tall tree; and he had a little squirrel wife called Goody.,N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,2:2,"Timmy Tiptoes sat out, enjoying the breeze; he whisked his tail and chuckled--""Little wife Goody, the nuts are ripe; we must lay up a store for winter and spring.""",N:H,N:H
+the_tale_of_timmy_tiptoes.emmood,3:3,"Goody Tiptoes was busy pushing moss under the thatch--""The nest is so snug, we shall be sound asleep all winter.""",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,4:4,"""Then we shall wake up all the thinner, when there is nothing to eat in spring- time,"" replied prudent Timothy.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,5:5,"When Timmy and Goody Tiptoes came to the nut thicket, they found other squirrels were there already.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,6:6,Timmy took off his jacket and hung it on a twig; they worked away quietly by themselves.,N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,7:7,Every day they made several journeys and picked quantities of nuts.,N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,8:8,"They carried them away in bags, and stored them in several hollow stumps near the tree where they had built their nest.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,9:9,"When these stumps were full, they began to empty the bags into a hole high up a tree, that had belonged to a woodpecker; the nuts rattled down--down--down inside.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,10:10,"""How shall you ever get them out again?",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,11:11,"It is like a money box!"" said Goody.",Su+:N,+:N
+the_tale_of_timmy_tiptoes.emmood,12:12,"""I shall be much thinner before springtime, my love,"" said Timmy Tiptoes, peeping into the hole.",H:N,H:N
+the_tale_of_timmy_tiptoes.emmood,13:13,They did collect quantities-- because they did not lose them!,N:N,H:N
+the_tale_of_timmy_tiptoes.emmood,14:14,"Squirrels who bury their nuts in the ground lose more than half, because they cannot remember the place.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,15:15,The most forgetful squirrel in the wood was called Silvertail.,N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,16:16,"He began to dig, and he could not remember.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,17:17,And then he dug again and found some nuts that did not belong to him; and there was a fight.,N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,18:18,"And other squirrels began to dig,--the whole wood was in commotion!",N:N,-:N
+the_tale_of_timmy_tiptoes.emmood,19:19,"Unfortunately, just at this time a flock of little birds flew by, from bush to bush, searching for green caterpillars and spiders.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,20:20,"There were several sorts of little birds, twittering different songs.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,21:21,"The first one sang--""Who's bin digging-up MY nuts?",A:N,A:N
+the_tale_of_timmy_tiptoes.emmood,22:22,"Who's-been- digging-up MY nuts?""",A:N,A:N
+the_tale_of_timmy_tiptoes.emmood,23:23,"And another sang--""Little bita bread and-NO-cheese!",A:N,A:N
+the_tale_of_timmy_tiptoes.emmood,24:24,"Little bit-a- bread an'-NO-cheese!""",A:N,A:N
+the_tale_of_timmy_tiptoes.emmood,25:25,The squirrels followed and listened.,N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,26:26,"The first little bird flew into the bush where Timmy and Goody Tiptoes were quietly tying up their bags, and it sang--""Who's-bin digging-up MY nuts?",A:N,A:N
+the_tale_of_timmy_tiptoes.emmood,27:27,"Who's been digging-up MY-nuts?""",A:N,A:N
+the_tale_of_timmy_tiptoes.emmood,28:28,"Timmy Tiptoes went on with his work without replying; indeed, the little bird did not expect an answer.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,29:29,"It was only singing its natural song, and it meant nothing at all.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,30:30,"But when the other squirrels heard that song, they rushed upon Timmy Tiptoes and cuffed and scratched him, and upset his bag of nuts.",A:N,A:N
+the_tale_of_timmy_tiptoes.emmood,31:31,"The innocent little bird which had caused all the mischief, flew away in a fright!",F:N,F:N
+the_tale_of_timmy_tiptoes.emmood,32:32,"Timmy rolled over and over, and then turned tail and fled towards his nest, followed by a crowd of squirrels shouting-- ""Who's-been digging-up MY-nuts?""",A:N,A:N
+the_tale_of_timmy_tiptoes.emmood,33:33,"They caught him and dragged him up the very same tree, where there was the little round hole, and they pushed him in.",N:N,A:F
+the_tale_of_timmy_tiptoes.emmood,34:34,The hole was much too small for Timmy Tiptoes' figure.,N:N,-:F
+the_tale_of_timmy_tiptoes.emmood,35:35,"They squeezed him dreadfully, it was a wonder they did not break his ribs.",N:N,-:F
+the_tale_of_timmy_tiptoes.emmood,36:36,"""We will leave him here till he confesses,"" said Silvertail Squirrel and he shouted into the hole--""Who's- been-digging-up MY-nuts?""",A:N,A:N
+the_tale_of_timmy_tiptoes.emmood,37:37,"Timmy Tiptoes made no reply; he had tumbled down inside the tree, upon half a peck of nuts belonging to himself.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,38:38,He lay quite stunned and still.,Su-:F,-:F
+the_tale_of_timmy_tiptoes.emmood,39:39,Goody Tiptoes picked up the nut bags and went home.,N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,40:40,She made a cup of tea for Timmy; but he didn't come and didn't come.,N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,41:41,Goody Tiptoes passed a lonely and unhappy night.,F:F,S:F
+the_tale_of_timmy_tiptoes.emmood,42:42,Next morning she ventured back to the nut bushes to look for him; but the other unkind squirrels drove her away.,N:N,S:N
+the_tale_of_timmy_tiptoes.emmood,43:43,"She wandered all over the wood, calling--",N:N,S:N
+the_tale_of_timmy_tiptoes.emmood,44:44,"""Timmy Tiptoes!",Sa:N,S:N
+the_tale_of_timmy_tiptoes.emmood,45:45,Timmy Tip- toes!,Sa:N,S:N
+the_tale_of_timmy_tiptoes.emmood,46:46,"Oh, where is Timmy Tiptoes?""",Sa:N,S:N
+the_tale_of_timmy_tiptoes.emmood,47:47,In the meantime Timmy Tiptoes came to his senses.,N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,48:48,"He found himself tucked up in a little moss bed, very much in the dark, feeling sore; it seemed to be under ground.",Su-:Sa,-:S
+the_tale_of_timmy_tiptoes.emmood,49:49,"Timmy coughed and groaned, because his ribs hurted him.",Sa:Sa,S:S
+the_tale_of_timmy_tiptoes.emmood,50:50,"There was a chirpy noise, and a small striped Chipmunk appeared with a night light, and hoped he felt better?",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,51:51,It was most kind to Timmy Tiptoes; it lent him its nightcap; and the house was full of provisions.,N:H,H:H
+the_tale_of_timmy_tiptoes.emmood,52:52,"The Chipmunk explained that it had rained nuts through the top of the tree--""Besides, I found a few buried!""",N:N,H:N
+the_tale_of_timmy_tiptoes.emmood,53:53,It laughed and chuckled when it heard Timmy's story.,H:H,H:H
+the_tale_of_timmy_tiptoes.emmood,54:54,"While Timmy was confined to bed, it 'ticed him to eat quantities --""But how shall I ever get out through that hole unless I thin myself?",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,55:55,"My wife will be anxious!""",F:F,F:F
+the_tale_of_timmy_tiptoes.emmood,56:56,"""Just another nut--or two nuts; let me crack them for you,"" said the Chipmunk.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,57:57,Timmy Tiptoes grew fatter and fatter!,N:N,-:N
+the_tale_of_timmy_tiptoes.emmood,58:58,Now Goody Tiptoes had set to work again by herself.,N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,59:59,"She did not put any more nuts into the woodpecker's hole, because she had always doubted how they could be got out again.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,60:60,"She hid them under a tree root; they rattled down, down, down.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,61:61,"Once when Goody emptied an extra big bagful, there was a decided squeak; and next time Goody brought another bagful, a little striped Chipmunk scrambled out in a hurry.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,62:62,"""It is getting perfectly full-up downstairs; the sitting room is full, and they are rolling along the passage; and my husband, Chippy Hackee, has run away and left me.",Sa:N,S:N
+the_tale_of_timmy_tiptoes.emmood,63:63,"What is the explanation of these showers of nuts?""",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,64:64,"""I am sure I beg your pardon; I did not know that anybody lived here,"" said Mrs. Goody Tiptoes; ""but where is Chippy Hackee?",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,65:65,"My husband, Timmy Tiptoes, has run away too.""",Sa:N,S:N
+the_tale_of_timmy_tiptoes.emmood,66:66,"""I know where Chippy is; a little bird told me,"" said Mrs. Chippy Hackee.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,67:67,"She led the way to the woodpecker's tree, and they listened at the hole.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,68:68,"Down below there was a noise of nutcrackers, and a fat squirrel voice and a thin squirrel voice were singing together--",H:N,N:N
+the_tale_of_timmy_tiptoes.emmood,69:69,"""My little old man and I fell out, How shall we bring this matter about?",N:N,H:N
+the_tale_of_timmy_tiptoes.emmood,70:70,"Bring it about as well as you can, And get you gone, you little old man!""",N:N,H:N
+the_tale_of_timmy_tiptoes.emmood,71:71,"""You could squeeze in, through that little round hole,"" said Goody Tiptoes.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,72:72,"""Yes, I could,"" said the Chipmunk, ""but my husband, Chippy Hackee, bites!""",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,73:73,Down below there was a noise of cracking nuts and nibbling; and then the fat squirrel voice and the thin squirrel voice sang--,N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,74:74,"""For the diddlum day Day diddle durn di!",N:N,H:N
+the_tale_of_timmy_tiptoes.emmood,75:75,"Day diddle diddle dum day!""",N:N,H:N
+the_tale_of_timmy_tiptoes.emmood,76:76,"Then Goody peeped in at the hole, and called down--""Timmy Tiptoes!",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,77:77,"Oh fie, Timmy Tiptoes!""",A:N,A:N
+the_tale_of_timmy_tiptoes.emmood,78:78,"And Timmy replied, ""Is that you, Goody Tiptoes?",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,79:79,"Why, certainly!""",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,80:80,He came up and kissed Goody through the hole; but he was so fat that he could not get out.,H:N,H:N
+the_tale_of_timmy_tiptoes.emmood,81:81,"Chippy Hackee was not too fat, but he did not want to come; he stayed down below and chuckled.",H:H,H:H
+the_tale_of_timmy_tiptoes.emmood,82:82,"And so it went on for a fort- night; till a big wind blew off the top of the tree, and opened up the hole and let in the rain.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,83:83,"Then Timmy Tiptoes came out, and went home with an umbrella.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,84:84,"But Chippy Hackee continued to camp out for another week, although it was uncomfortable.",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,85:85,At last a large bear came walking through the wood.,N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,86:86,Perhaps he also was looking for nuts; he seemed to be sniffing around.,N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,87:87,Chippy Hackee went home in a hurry!,F:F,F:F
+the_tale_of_timmy_tiptoes.emmood,88:88,"And when Chippy Hackee got home, he found he had caught a cold in his head; and he was more uncomfortable still.",Sa:Sa,N:S
+the_tale_of_timmy_tiptoes.emmood,89:89,And now Timmy and Goody Tiptoes keep their nut store fastened up with a little padlock.,N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,90:90,"And whenever that little bird sees the Chipmunks, he sings--""Who's-been-digging- up MY-nuts?",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,91:91,"Who's been dig- ging-up MY-nuts?""",N:N,N:N
+the_tale_of_timmy_tiptoes.emmood,92:92,But nobody ever answers!,N:N,N:N
